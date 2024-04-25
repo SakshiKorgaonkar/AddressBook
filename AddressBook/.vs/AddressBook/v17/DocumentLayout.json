@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\AddressBook\\AddressBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBF7B500-0AA4-484F-B10E-1EB7045CA053}|AddressBook\\AddressBook.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_day3\\addressbook\\addressbook\\addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBF7B500-0AA4-484F-B10E-1EB7045CA053}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBF7B500-0AA4-484F-B10E-1EB7045CA053}|AddressBook\\AddressBook.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_day3\\addressbook\\addressbook\\addressbook\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF7B500-0AA4-484F-B10E-1EB7045CA053}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBF7B500-0AA4-484F-B10E-1EB7045CA053}|AddressBook\\AddressBook.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_day3\\addressbook\\addressbook\\addressbook\\addressbook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DBF7B500-0AA4-484F-B10E-1EB7045CA053}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\addressbook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DBF7B500-0AA4-484F-B10E-1EB7045CA053}|AddressBook\\AddressBook.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_day3\\addressbook\\addressbook\\addressbook\\addressbookmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF7B500-0AA4-484F-B10E-1EB7045CA053}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\addressbookmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF7B500-0AA4-484F-B10E-1EB7045CA053}|AddressBook\\AddressBook.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_day3\\addressbook\\addressbook\\addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF7B500-0AA4-484F-B10E-1EB7045CA053}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddressBook",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\AddressBook\\AddressBook\\AddressBook\\AddressBook.csproj",
-              "RelativeDocumentMoniker": "AddressBook\\AddressBook.csproj",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\AddressBook\\AddressBook\\AddressBook\\AddressBook.csproj",
-              "RelativeToolTip": "AddressBook\\AddressBook.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-24T06:03:52.926Z",
+              "DocumentIndex": 0,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\AddressBook\\AddressBook\\AddressBook\\Contact.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Contact.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\AddressBook\\AddressBook\\AddressBook\\Contact.cs",
+              "RelativeToolTip": "AddressBook\\Contact.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:37:48.796Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "AddressBookMain.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\AddressBook\\AddressBook\\AddressBook\\AddressBookMain.cs",
+              "RelativeDocumentMoniker": "AddressBook\\AddressBookMain.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\AddressBook\\AddressBook\\AddressBook\\AddressBookMain.cs",
+              "RelativeToolTip": "AddressBook\\AddressBookMain.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswBkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:52:00.704Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\AddressBook\\AddressBook\\AddressBook\\Program.cs",
               "RelativeDocumentMoniker": "AddressBook\\Program.cs",
               "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\AddressBook\\AddressBook\\AddressBook\\Program.cs",
               "RelativeToolTip": "AddressBook\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA9AAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvxwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T05:17:51.385Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
