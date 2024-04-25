@@ -21,7 +21,6 @@ internal class Program
                     return;
                 case 1:
                     Console.WriteLine("Enter address book name : ");
-                   
                     string name=Console.ReadLine();
                     if (dictionary.ContainsKey(name))
                     {
@@ -45,7 +44,6 @@ internal class Program
                         foreach (var contact in dictionary[name1].GetContacts())
                         {
                             Console.WriteLine($"Name: {contact.FirstName}, Phone: {contact.PhoneNumber} ,Lastname: {contact.LastName}, Email : {contact.Email}, Address : {contact.Address}");
-                            // Display other contact details as needed
                         }
                     }
                     else
@@ -62,10 +60,8 @@ internal class Program
                         string newname=Console.ReadLine();
                         AddressBookMain addressBook = dictionary[oldname];
 
-                        // Remove the entry with the old name
                         dictionary.Remove(oldname);
 
-                        // Add the entry with the new name and the stored value
                         dictionary.Add(newname, addressBook);
 
                         Console.WriteLine("Address book name edited successfully.");

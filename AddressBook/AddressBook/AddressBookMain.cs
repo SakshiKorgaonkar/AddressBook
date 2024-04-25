@@ -21,9 +21,8 @@ namespace AddressBook
             for (int i = 0; i < numContacts; i++)
             {
                 Console.WriteLine($"Enter details for contact {i + 1}:");
-                //Contact newContact = new Contact(); // Create a new Contact instance for each person
-                contact.AcceptRecord(); // Prompt the user to enter details for the new contact
-                contacts.Add(contact); // Add the new contact to the contacts list
+                contact.AcceptRecord();
+                contacts.Add(contact); 
                 Console.WriteLine("Contact added successfully.");
             }
         }
@@ -100,7 +99,7 @@ namespace AddressBook
                             }
                         }
                         break;
-                        case 5:
+                    default:
                         Console.WriteLine("Enter valid choice");
                         return;
                 }

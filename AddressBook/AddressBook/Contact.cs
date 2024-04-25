@@ -42,7 +42,6 @@ namespace AddressBook
 
             Console.Write("Enter your Phone Number : ");
             this.PhoneNumber = Convert.ToInt64(Console.ReadLine());
-            return;
         }
 
         public void DisplayRecord()
