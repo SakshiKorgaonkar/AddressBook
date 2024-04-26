@@ -35,8 +35,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T06:37:48.796Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -46,7 +45,7 @@
               "RelativeDocumentMoniker": "AddressBook\\AddressBookMain.cs",
               "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_day3\\AddressBook\\AddressBook\\AddressBook\\AddressBookMain.cs",
               "RelativeToolTip": "AddressBook\\AddressBookMain.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwGUAAAAUAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T06:52:00.704Z",
               "IsPinned": true,
@@ -62,8 +61,7 @@
               "RelativeToolTip": "AddressBook\\Program.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAuwDwAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T05:17:51.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T05:17:51.385Z"
             }
           ]
         }

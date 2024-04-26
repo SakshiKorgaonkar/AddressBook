@@ -22,15 +22,21 @@ namespace AddressBook
             {
                 Console.WriteLine($"Enter details for contact {i + 1}:");
                 contact.AcceptRecord();
-                contacts.Add(contact); 
-                Console.WriteLine("Contact added successfully.");
+                if(contacts.Contains(contact))
+                {
+                    Console.WriteLine("Contact already exists");
+                }
+                else
+                {
+                    contacts.Add(contact);
+                    Console.WriteLine("Contact added successfully.");
+                }
             }
         }
         public AddressBookMain(List<Contact> contacts)
         {
             this.contacts = contacts;
         }
-
         public List<Contact> GetContacts()
         {
             return contacts;
@@ -39,7 +45,6 @@ namespace AddressBook
         {
             List<Contact> ContactsList = new List<Contact>();
             Contact Contact = new Contact();
-            
             while (true)
             {
                 Console.WriteLine("Choose any operation : \n1.Add contacts\n2.Display contacts\n3.Edit contact\n4.Delete contact");
